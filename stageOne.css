@@ -1,0 +1,31 @@
+body{
+    background: url("bg-img.jpg") no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+header {
+    padding-top: 50px;
+    font-size: 65px;
+    font-family:'Arvo', serif;
+    color: #AD76B5;
+    text-decoration-style: solid;
+    text-decoration-line: underline;
+    text-decoration-color: #AD76B5;
+}
+p {
+    font-family: 'Arvo', serif;
+    color: #57BAB9;
+    font-size: 40px;
+}
+.time{
+    color: #BDBDBD;
+    font-size: 70px;
+    font-family: 'Arvo', serif;
+    padding: 20px;
+}
+footer{
+    text-align: right;
+    font-size: 30px;
+    padding: 250px 40px 0px 40px;
+    color:#BDBDBD;
+}
